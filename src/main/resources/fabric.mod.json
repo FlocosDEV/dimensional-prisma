@@ -3,13 +3,13 @@
 	"id": "dimprisma",
 	"version": "${version}",
 	"name": "Dimensional Prisma",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Dimensional Prisma is in a VERY EARLY stage development, everything is WIP and can change!",
 	"authors": [
-		"Me!"
+		"Flocos",
+        "Breno"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/FlocosDEV/dimensional-prisma"
 	},
 	"license": "All Rights Reserved",
 	"icon": "assets/dimprisma/icon.png",
@@ -22,7 +22,7 @@
 			"net.prisma.dimprisma.DimensionalPrismaDataGenerator"
 		],
         "client": [
-            "net.prisma.dimprisma.DimensionalClient"
+            "net.prisma.dimprisma.DimensionalPrismaClient"
         ]
 	},
 	"mixins": [
