@@ -20,7 +20,10 @@
 		],
 		"fabric-datagen": [
 			"net.prisma.dimprisma.DimensionalPrismaDataGenerator"
-		]
+		],
+        "client": [
+            "net.prisma.dimprisma.DimensionalClient"
+        ]
 	},
 	"mixins": [
 		"dimprisma.mixins.json"
